@@ -1,0 +1,75 @@
+{
+  "id": 9895028192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63808,49.45399,-2.63808,49.45399",
+    "geom:latitude":49.45399,
+    "geom:longitude":-2.63808,
+    "gn:population":2001,
+    "iso:country":"GG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527042: name \"Saint Pierre du Bois Parish\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527042"
+        },
+        {
+            "citation":"GeoNames populated place 13527042: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527042"
+        },
+        {
+            "citation":"GeoNames populated place 13527042: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527042"
+        },
+        {
+            "citation":"The hierarchy of WOF region 1477797913 (Guernsey), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632547,
+        102191581,
+        136253055,
+        1477797913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527042
+    },
+    "wof:country":"GG",
+    "wof:geomhash":"54a8e55b039d05ed80c5fe2dba374e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632547,
+            "empire_id":136253055,
+            "locality_id":9895028192,
+            "region_id":1477797913
+        }
+    ],
+    "wof:id":9895028192,
+    "wof:lastmodified":1795735249,
+    "wof:name":"Saint Pierre du Bois Parish",
+    "wof:parent_id":1477797913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63808,
+    49.45399,
+    -2.63808,
+    49.45399
+],
+  "geometry": {"coordinates":[-2.63808,49.45399],"type":"Point"}
+}
